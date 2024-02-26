@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Jorgelhus/MapsinNetSuite">
-    <img src="https://i.ibb.co/GsWKsBk/Designer.png" alt="Logo" width="120" height="178">
+    <img src="https://i.ibb.co/GsWKsBk/Designer.png" alt="Logo">
   </a>
 </p>
   <h1 align="center">Maps In NetSuite</h1>
