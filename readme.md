@@ -29,7 +29,7 @@ You get the idea: this is your visualization.
 
 ### Purpose
 
-Map visualization is an easy way to understand where you are shipping to, and the visual feedback can break made up ideas based on "feels", instead approaching a data understanding.
+  Map visualization is an easy way to understand where you are shipping to, and the visual feedback can break made up ideas based on "feels", instead approaching a data understanding.
 
 ## Features
 
@@ -62,7 +62,7 @@ This work is not licensed in any way. The code is provided "as is", and I do not
 
 ## Do you need help, or do you want to get in touch?
 
-Do you want to contact me? You can email me at [jorge@rochapro.com](mailto:jorge@rochapro.com) or scream really loudly at your closes abyss.
+Do you want to contact me? You can email me at [jorge@rochapro.com](mailto:jorge@rochapro.com) or scream really loudly at your closest abyss.
 
 <!-- END OF HELP TEXT -->
 
